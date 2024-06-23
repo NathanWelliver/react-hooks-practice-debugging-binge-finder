@@ -1,6 +1,6 @@
 import React from "react";
 
-function Episode(props) {
+function Episode({props}) {
   let { myEpisode } = props;
 
   return (
